@@ -1,0 +1,32 @@
+[
+    {
+        "image": "images/interests/CVisions.jpeg",
+        "title": "Computer Vision",
+        "description": "Deep learning techniques for image recognition, object detection, and video analysis."
+    },
+    {
+        "image": "images/interests/NLP.jpg",
+        "title": "Natural Language Processing",
+        "description": "Research and applications in LLMs, sentiment analysis, and language generation."
+    },
+    {
+        "image": "images/interests/RL.jpg",
+        "title": "Reinforcement Learning",
+        "description": "AI models for autonomous decision-making, gaming, and robotics."
+    },
+    {
+        "image": "images/interests/GModel.jpg",
+        "title": "Generative Models",
+        "description": "Exploring GANs, diffusion models, and autoencoders for content generation."
+    },
+    {
+        "image": "images/interests/ethics.jpg",
+        "title": "AI Ethics and Fairness",
+        "description": "Ensuring transparency, bias mitigation, and ethical AI development."
+    },
+    {
+        "image": "images/interests/education.jpg",
+        "title": "AI in Education",
+        "description": "Creating personalized learning tools and evaluation systems powered by AI."
+    }
+]
